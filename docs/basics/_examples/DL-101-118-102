@@ -1,23 +1,24 @@
 # lets view the history
 $ git log --oneline
-66f97f3 add note on clean datasets
-17e39f4 [DATALAD RUNCMD] Resize logo for slides
-68ade50 [DATALAD RUNCMD] Resize logo for slides
-048ae39 add additional notes on run options
-fa3fca4 [DATALAD RUNCMD] convert -resize 450x450 recordings/longn...
-8cdc201 resized picture by hand
-11dfb75 [DATALAD RUNCMD] convert -resize 400x400 recordings/longn...
-5ca7d13 add note on basic datalad run and datalad rerun
-de40bb1 add note datalad and git diff
-140477a [DATALAD RUNCMD] create a list of podcast titles
-3923b9c BF: list both directories content
-69f9ecc [DATALAD RUNCMD] create a list of podcast titles
-12323f0 Add simple script to write a list of podcast speakers and titles
-67d32e9 Add note on datalad install
-776b0ac [DATALAD] Recorded changes
-1de8b79 add note on datalad save
-0ed048a Add notes on datalad create
-90ade2e add reference book about git
-5d5a801 add books on Python and Unix to read later
-4cc7c21 Instruct annex to add text files to Git
-fca4a60 [DATALAD] new dataset
+41af8d7 add note on clean datasets
+c64e3e5 [DATALAD RUNCMD] Resize logo for slides
+c47aec6 [DATALAD RUNCMD] Resize logo for slides
+1c8a8d6 add additional notes on run options
+8519150 [DATALAD RUNCMD] convert -resize 450x450 recordings/longn...
+a7e89bb resized picture by hand
+0298767 [DATALAD RUNCMD] convert -resize 400x400 recordings/longn...
+61d3940 add note on basic datalad run and datalad rerun
+1d2bbf2 add note datalad and git diff
+601947a [DATALAD RUNCMD] create a list of podcast titles
+bd37b38 BF: list both directories content
+f28d463 [DATALAD RUNCMD] create a list of podcast titles
+265a245 Add short script to write a list of podcast speakers and titles
+84f2408 Add note on datalad install
+aecd40b [DATALAD] Recorded changes
+a93b667 add note on datalad save
+54a335b Add notes on datalad create
+8fa04fc add beginners guide on bash
+be49de1 add reference book about git
+c23da5b add books on Python and Unix to read later
+05e7ae6 Instruct annex to add text files to Git
+2419a4b [DATALAD] new dataset
